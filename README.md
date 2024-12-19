@@ -1,1 +1,3 @@
-<img align="center" style="width:260px" src="https://github.com/DevByEagle/pygo/blob/master/assets/logo.png" width="288px">
+<p align="center">
+  <img src="" width="150">
+</p>
