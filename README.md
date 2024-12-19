@@ -1,1 +1,1 @@
-![Library Icon](https://path/to/your/icon.png)
+![Library Icon](https://github.com/DevByEagle/pygo/blob/master/assets/logo.png)
